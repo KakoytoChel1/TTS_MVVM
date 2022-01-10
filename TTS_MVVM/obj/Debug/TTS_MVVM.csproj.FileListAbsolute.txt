@@ -1,0 +1,14 @@
+C:\Users\Ivanchik228\source\repos\TTS_MVVM\TTS_MVVM\bin\Debug\TTS_MVVM.exe.config
+C:\Users\Ivanchik228\source\repos\TTS_MVVM\TTS_MVVM\bin\Debug\TTS_MVVM.exe
+C:\Users\Ivanchik228\source\repos\TTS_MVVM\TTS_MVVM\bin\Debug\TTS_MVVM.pdb
+C:\Users\Ivanchik228\source\repos\TTS_MVVM\TTS_MVVM\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Ivanchik228\source\repos\TTS_MVVM\TTS_MVVM\obj\Debug\App.g.cs
+C:\Users\Ivanchik228\source\repos\TTS_MVVM\TTS_MVVM\obj\Debug\TTS_MVVM_MarkupCompile.cache
+C:\Users\Ivanchik228\source\repos\TTS_MVVM\TTS_MVVM\obj\Debug\TTS_MVVM_MarkupCompile.lref
+C:\Users\Ivanchik228\source\repos\TTS_MVVM\TTS_MVVM\obj\Debug\Views\MainWindow.baml
+C:\Users\Ivanchik228\source\repos\TTS_MVVM\TTS_MVVM\obj\Debug\TTS_MVVM.g.resources
+C:\Users\Ivanchik228\source\repos\TTS_MVVM\TTS_MVVM\obj\Debug\TTS_MVVM.Properties.Resources.resources
+C:\Users\Ivanchik228\source\repos\TTS_MVVM\TTS_MVVM\obj\Debug\TTS_MVVM.csproj.GenerateResource.cache
+C:\Users\Ivanchik228\source\repos\TTS_MVVM\TTS_MVVM\obj\Debug\TTS_MVVM.csproj.CoreCompileInputs.cache
+C:\Users\Ivanchik228\source\repos\TTS_MVVM\TTS_MVVM\obj\Debug\TTS_MVVM.exe
+C:\Users\Ivanchik228\source\repos\TTS_MVVM\TTS_MVVM\obj\Debug\TTS_MVVM.pdb
